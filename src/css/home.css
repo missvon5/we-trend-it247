@@ -1,0 +1,25 @@
+.home {
+    
+    background-image: linear-gradient(to right , #0099f7 , #f11712);
+    /* padding-top: 60px; */
+    margin-left: 20px;
+}
+.home >p{
+    max-width: 50%;
+    background: none;
+}
+
+ .par{
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#list{
+    margin-left: 100px;
+    text-decoration: none;
+    background: none;
+}
+
